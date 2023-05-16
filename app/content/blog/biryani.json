@@ -1,6 +1,6 @@
 {
   "publishedAt": "28th Jan 2022",
   "title": "Hosting static website on S3 and CloudFront and creating CI/CD pipeline",
-  "content": "AWS S3 or Amazon Simple Storage Service is an object storage service that stores data as objects within buckets. An object is a file and any metadata that describes the file. Apart from data storage functionality, the AWS S3 bucket provides a feature of hosting static websites over it.",
+  "content": "AWS S3 or Amazon Simple Storage Service is an object storage service that stores data as objects within buckets. An object is a file and any metadata that describes the file. Apart from data storage functionality, the AWS S3 bucket provides a feature of hosting static websites over it.\n\n We will be creating a simple website and will be hosting on S3 along with that we will be pointing our website URL on Cloudfront as the origin.\n\n Let's create a bucket where we will be uploading our index.html and index.css \n\nSteps: Create a bucket i.e. 1weekofdevops and unmark Block all public access because we will be hosting web on S3, so the bucket should be publically accessible as shown below.",
   "featuredImage": "/images/uploads/week1.jpg"
 }
