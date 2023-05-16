@@ -2,5 +2,5 @@
   "publishedAt": "28th Jan 2022",
   "title": "Hosting static website on S3 and CloudFront and creating CI/CD pipeline",
   "content": "AWS S3 or Amazon Simple Storage Service is an object storage service that stores data as objects within buckets. An object is a file and any metadata that describes the file. Apart from data storage functionality, the AWS S3 bucket provides a feature of hosting static websites over it.",
-  "featuredImage": "/images/uploads/pakistani-chicken-biryani.jpg"
+  "featuredImage": "/images/uploads/week1.jpg"
 }
